@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10893465538",
+    "firebase_url": "https://airplane-7a0a3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "airplane-7a0a3",
+    "storage_bucket": "airplane-7a0a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10893465538:android:a2ddcd4523bc7724fc685b",
+        "android_client_info": {
+          "package_name": "com.arie.airplane1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10893465538-hg4o62h2f3sjk9d3l2a2hkup5minelir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXL3C5lS1qRFbNpWW0j52iOJ9hyVsaS4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10893465538-hg4o62h2f3sjk9d3l2a2hkup5minelir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
